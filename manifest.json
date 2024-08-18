@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "SignColorFix",
+    "description": "/structure load SignColorFix ~~~\n看板の色が濃くなる問題を修正した看板が入ってます\nby YuuhaLand",
+    "uuid": "97261fa5-53b7-49d4-a90a-e4af6c486696",
+    "version": [ 1, 0, 0 ],
+    "min_engine_version": [ 1, 20, 0 ]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "5f7efcc2-9dfb-493f-9236-16f6787044fd",
+      "version": [ 1, 0, 0 ]
+    }
+  ]
+}
